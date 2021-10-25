@@ -45,5 +45,8 @@ melina.gaedecke@epfl.ch
     * Initial Release
 
 ## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Melina-Gaedecke/ResearchAssignment4/blob/main/LICENSE) file for details
+
+## Acknowledgments
 * [Readme_DomPizzie](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc) 
 * [CodeDocumentation](https://moodle.epfl.ch/pluginfile.php/3018511/mod_resource/content/1/IRS_Cours_5_001.pdf)
